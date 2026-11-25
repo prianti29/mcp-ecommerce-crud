@@ -1,6 +1,6 @@
 
-CREATE DATABASE IF NOT EXISTS rahulshettyacademy;
-use rahulshettyacademy;
+CREATE DATABASE IF NOT EXISTS ecommerce_db;
+use ecommerce_db;
 
 CREATE TABLE IF NOT EXISTS products (
   id INT AUTO_INCREMENT PRIMARY KEY,
