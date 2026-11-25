@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output (regenerate with `npm run build`)
+dist/
+
+# Secrets - copy .env.example to .env locally
+.env
+*.env
+!.env.example
+
+# OS / editor
+.DS_Store
+.continue/
+*.log
